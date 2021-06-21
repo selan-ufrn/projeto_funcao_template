@@ -7,7 +7,7 @@ Mais detalhes sobre cada função a ser implementada pode ser encontrada de mane
 
 # Resolvendo as questões
 
-Nessa tarefa resolvi utilizar uma organização de conteúdo diferente da tarefa anterior, em virtude de alguns problemas encontrados quando era necessário atualizar algum exercício. Sempre que uma alteração era necessária, era preciso alterar cada repositório individualmente, de forma manual ou por script. Infelizmente o GitHub Classroom (GHC) não oferece um mecanismo integrado para alterar todos os repositórios dentro de uma turma de uma só vez.
+Nessa tarefa resolvi utilizar uma organização de conteúdo diferente da tarefa anterior, em virtude de alguns problemas encontrados quando era necessário atualizar algum exercício. Sempre que uma alteração era necessária, era preciso alterar cada repositório de estudante individualmente, de forma manual ou via _script_. Infelizmente o GitHub Classroom (GHC) não oferece um mecanismo integrado para alterar todos os repositórios dentro de uma turma de uma só vez.
 
 Sendo assim, este repositório que será acompanhado pelo GHC será denominado de agora em diante de repositório **Soluções**. Já a lista completa de exercícios está localizada em um _repositório externo_ chamado de [**Exercícios**](https://github.com/selan-ufrn/lp1-2021.1-exercicios-ranges). Dentro do repositório **Exercícios** você vai perceber que cada questão está organizada em uma pasta individual. 
 
