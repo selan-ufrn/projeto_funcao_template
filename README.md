@@ -21,7 +21,7 @@ A vantagem desse novo esquema organizacional, separando as questões das soluç�
     + Resolva o exercício em questão.
     + Quando finalizar (ou se quiser tirar uma dúvida) adicione a pasta do exercício (`git add <pasta>`) ao repositório local **Soluções**.
     + Faça o _commit_ da pasta com as alterações para o repo **Soluções** no GitHub.
-    + Pronto, agora você pode fazer _pull request_ em `feedback` ou abrir alguma _issue_, casa queira tirar dúvidas sobre o exercício em questão.
+    + Pronto, agora você pode utilizar _pull request_ em `feedback` para se comunicar ou abrir alguma _issue_, casa queira tirar dúvidas sobre o exercício em questão.
     
 Ao final desse processo, todas as pastas de **Exercícios** terão sido copiadas e "_comitadas_" para o repo **Soluções** no GHC. Essas serão as pastas com as suas soluções.
 
