@@ -1,6 +1,6 @@
 ﻿# Lista de Exercício sobre Ranges e Funções Templates
 
-Essa lista de exercícios tem por objetivo o desenvolvimento de uma biblioteca de funções que operam sobre **ranges**, i.e. um par de ponteiros que definem um intervalo fechado-aberto sobre uma coleção, e que são implementadas na forma de **templates**. A programação com template ou _gabarito_ em C++ permite que você programe uma função sem especificar o tipo de dados sobre o qual a função vai trabalhar. Dessa forma é possível, por exemplo, criar uma função de ordenação que ordenda qualquer coleção de informações, como inteiros, strings, frutas e monstros.
+Essa lista de exercícios tem por objetivo o desenvolvimento de uma biblioteca de funções que operam sobre **ranges**, i.e. um par de ponteiros que definem um intervalo fechado-aberto sobre uma coleção, e que são implementadas na forma de **templates**. A programação com template ou _gabarito_ em C++ permite que você programe uma função sem especificar o tipo de dados sobre o qual a função vai trabalhar. Dessa forma é possível, por exemplo, criar uma função de ordenação que ordenda qualquer coleção de informações, como inteiros, strings, frutas ou monstros.
 
 Mais detalhes sobre cada função a ser implementada pode ser encontrada de maneira unificada no documento em PDF que se encontra [aqui](https://github.com/selan-ufrn/lp1-2021.1-exercicios-ranges/tree/master/docs).
 
